@@ -840,3 +840,7 @@ TSWLatexianTemp*
 *.glstex
 
 # End of https://www.toptal.com/developers/gitignore/api/csharp,latex
+
+
+### gpss ###
+*.gpr
